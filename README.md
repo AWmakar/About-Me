@@ -10,7 +10,7 @@ _г. Самара_
 
 ## Контакты 
 
-тел. <a href="tel:89093445888"><a/>
+тел. <a href="tel:89093445888"></a>
 
 e-mail: makarov-andrew@inbox.ru
 
